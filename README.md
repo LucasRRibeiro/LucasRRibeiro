@@ -21,4 +21,4 @@ Sou Lucas Rodrigues Ribeiro, sou estudante do Instituo Federal Paraná e estou e
 
 ## ⭐ GitHub Stats
 
-![GitHub Stats]([https://github-readme-stats.vercel.app](https://github.com/LucasRRibeiro)/api?username=LucasRodrigues&show_icons=true)
+![GitHub Stats](https://github.com/LucasRRibeiro/api?username=LucasRodrigues&show_icons=true)

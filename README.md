@@ -1,4 +1,4 @@
-## 💜 Olá, meu nome é {Lucas Rodrigues}!
+## 💜 Olá, meu nome é Lucas Rodrigues!
 
 Sou Lucas Rodrigues Ribeiro, sou estudante do Instituo Federal Paraná e estou estudando para me tornar um desenvolvedor back-end.
 

@@ -7,6 +7,7 @@ Sou Lucas Rodrigues Ribeiro, sou estudante do Instituo Federal Paraná e estou e
 <div align="center">
   
 💬 Contatos:   
+
   <a href="https://www.instagram.com/lucas._.rodrigues2/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
   <a href="lucasrodreigues0@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
 </div>

@@ -2,7 +2,7 @@
 
 Sou Lucas Rodrigues Ribeiro, sou estudante do Instituo Federal Paraná e estou estudando para me tornar um desenvolvedor back-end.
 
-🔭 Estou no momento desenvolvendo meu tcc no instituto.
+🔭 Estou no momento desenvolvendo meu tcc no IFPR.
 
 <div align="center">
   

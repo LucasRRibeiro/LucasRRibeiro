@@ -5,8 +5,12 @@ Sou Lucas Rodrigues Ribeiro, sou estudante do Instituo Federal Paraná e estou e
 🔭 Estou no momento desenvolvendo meu tcc no instituto.
 
 💬 Contatos:
-     Email: lucasrodreigues0@gmail.com <br>
-     Instagram: lucas._.rodrigues2
+
+<div align="center">
+  <a href="https://www.instagram.com/lucas._.rodrigues2/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
+  <a href="lucasrodreigues0@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+</div>
+
 ---
 
 ## 🚀 Minhas Skills

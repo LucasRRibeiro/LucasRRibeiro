@@ -4,7 +4,7 @@ Sou Lucas Rodrigues Ribeiro, sou estudante do Instituo Federal Paraná e estou e
 
 🔭 Estou no momento desenvolvendo meu tcc no instituto.
 
-💬 Contatos:
+                                                                💬 Contatos:
 
 <div align="center">
   <a href="https://www.instagram.com/lucas._.rodrigues2/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>

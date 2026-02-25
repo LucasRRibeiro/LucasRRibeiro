@@ -8,7 +8,7 @@ Sou Lucas Rodrigues Ribeiro, sou estudante do Instituo Federal Paraná e estou e
   
 
 <div align="center">  
-  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=LucasRRibeiro&show_icons=true&count_private=true&hide_border=true&title_color=40E0D0&icon_color=40E0D0&text_color=48D1CC&bg_color=000000" alt="Lucas Rodrigues github stats" /> 
+  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=LucasRRibeiro&show_icons=true&count_private=true&hide_border=true&title_color=40E0D0&icon_color=40E0D0&text_color=48D1CC&bg_color=000000&v=1" alt="Lucas Rodrigues github stats" /> 
   <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LucasRRibeiro&layout=compact&hide_border=true&title_color=00CED1&text_color=40E0D0&bg_color=0d1117" />
 </div>
 
